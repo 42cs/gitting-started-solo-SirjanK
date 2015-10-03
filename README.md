@@ -1,4 +1,5 @@
 First thing's first, run:
+Blah
 
     $ man git
 
